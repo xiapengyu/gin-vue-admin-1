@@ -1,8 +1,8 @@
 package service
 
 import (
-	"github.com/bingjian-zhu/gin-vue-admin/models"
-	"github.com/bingjian-zhu/gin-vue-admin/page"
+	"gin-vue-admin/models"
+	"gin-vue-admin/page"
 )
 
 //IArticleService Article接口定义

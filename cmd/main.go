@@ -2,13 +2,12 @@ package main
 
 import (
 	"fmt"
+	"gin-vue-admin/common/setting"
+	"gin-vue-admin/common/validator"
+	"gin-vue-admin/routers"
+	"github.com/gin-gonic/gin/binding"
 	"net/http"
 	"time"
-
-	"github.com/bingjian-zhu/gin-vue-admin/common/setting"
-	"github.com/bingjian-zhu/gin-vue-admin/common/validator"
-	"github.com/bingjian-zhu/gin-vue-admin/routers"
-	"github.com/gin-gonic/gin/binding"
 )
 
 func main() {

@@ -1,5 +1,5 @@
 <template>
-  <a href="https://github.com/Bingjian-Zhu/gin-vue-admin" target="_blank" class="github-corner" aria-label="View source on Github">
+  <a href="https://github.com/xiapengyu/gin-vue-admin-v1" target="_blank" class="github-corner" aria-label="View source on Github">
     <svg
       width="80"
       height="80"

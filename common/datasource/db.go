@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"log"
 
-	"github.com/bingjian-zhu/gin-vue-admin/common/setting"
+	"gin-vue-admin/common/setting"
 	"github.com/jinzhu/gorm"
 
 	//

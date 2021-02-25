@@ -1,4 +1,4 @@
-module github.com/bingjian-zhu/gin-vue-admin
+module gin-vue-admin
 
 go 1.13
 

@@ -19,7 +19,7 @@
             </router-link>
           </li>
           <li class="link-type">
-            <a href="https://github.com/Bingjian-Zhu/gin-vue-admin">随便看看</a>
+            <a href="https://github.com/xiapengyu/gin-vue-admin-v1">随便看看</a>
           </li>
           <li><a href="#" @click.prevent="dialogVisible=true">点我看图</a></li>
         </ul>

@@ -16,7 +16,7 @@
               首页
             </el-dropdown-item>
           </router-link>
-          <a target="_blank" href="https://github.com/Bingjian-Zhu/gin-vue-admin/">
+          <a target="_blank" href="https://github.com/xiapengyu/gin-vue-admin-v1/">
             <el-dropdown-item>Github</el-dropdown-item>
           </a>
           <a target="_blank" href="https://panjiachen.github.io/vue-element-admin-site/#/">

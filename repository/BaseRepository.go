@@ -1,8 +1,8 @@
 package repository
 
 import (
-	"github.com/bingjian-zhu/gin-vue-admin/common/datasource"
-	"github.com/bingjian-zhu/gin-vue-admin/common/logger"
+	"gin-vue-admin/common/datasource"
+	"gin-vue-admin/common/logger"
 	"github.com/jinzhu/gorm"
 )
 

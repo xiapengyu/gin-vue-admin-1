@@ -4,12 +4,12 @@ import (
 	"net/http"
 	"strconv"
 
+	"gin-vue-admin/common/codes"
+	"gin-vue-admin/common/logger"
+	"gin-vue-admin/models"
+	"gin-vue-admin/page"
+	"gin-vue-admin/service"
 	jwt "github.com/appleboy/gin-jwt/v2"
-	"github.com/bingjian-zhu/gin-vue-admin/common/codes"
-	"github.com/bingjian-zhu/gin-vue-admin/common/logger"
-	"github.com/bingjian-zhu/gin-vue-admin/models"
-	"github.com/bingjian-zhu/gin-vue-admin/page"
-	"github.com/bingjian-zhu/gin-vue-admin/service"
 	"github.com/gin-gonic/gin"
 )
 

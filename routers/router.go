@@ -6,14 +6,14 @@ import (
 	"github.com/facebookgo/inject"
 	"github.com/gin-gonic/gin"
 
-	"github.com/bingjian-zhu/gin-vue-admin/common/datasource"
-	"github.com/bingjian-zhu/gin-vue-admin/common/logger"
-	"github.com/bingjian-zhu/gin-vue-admin/common/middleware/cors"
-	"github.com/bingjian-zhu/gin-vue-admin/common/middleware/jwt"
-	"github.com/bingjian-zhu/gin-vue-admin/common/setting"
-	"github.com/bingjian-zhu/gin-vue-admin/controller"
-	"github.com/bingjian-zhu/gin-vue-admin/repository"
-	"github.com/bingjian-zhu/gin-vue-admin/service"
+	"gin-vue-admin/common/datasource"
+	"gin-vue-admin/common/logger"
+	"gin-vue-admin/common/middleware/cors"
+	"gin-vue-admin/common/middleware/jwt"
+	"gin-vue-admin/common/setting"
+	"gin-vue-admin/controller"
+	"gin-vue-admin/repository"
+	"gin-vue-admin/service"
 )
 
 //InitRouter 初始化Router
